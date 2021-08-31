@@ -1,9 +1,7 @@
 ## Hi there, I'm Matheus Baldissara 👋
 ##### Full Stack Developer from Rio de Janeiro, Brazil 🇧🇷
-- 🎓 Senior College Student in Information Systems at [Fluminense Federal University](https://www.uff.br/) 
+- 🎓 Senior College Student in Bacharelor of Information Systems at [Fluminense Federal University](https://www.uff.br/) 
 - 💼 Web Development Analyst at [Infoglobo](https://github.com/Infoglobo)
-
-
 
 ### Connect with me:
 <a href="https://linkedin.com/in/baldissaramatheus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logoColor=white"></a>
@@ -29,7 +27,7 @@
 ![](https://img.shields.io/badge/Arch-informational?style=flat&logo=archlinux&logoColor=white&color=3b4252)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=3b4252)
 
-### Have some knowledge on:
+### Have _some_ experience with:
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3b4252)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3b4252)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=3b4252)
