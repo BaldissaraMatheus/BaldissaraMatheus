@@ -1,6 +1,5 @@
-### Hi there, I'm Matheus Baldissara 👋
+## Hi there, I'm Matheus Baldissara 👋
 ##### Full Stack Developer from Rio de Janeiro, Brazil 🇧🇷
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=baldissaramatheus.baldissaramatheus)
 - 🎓 Senior College Student in Information Systems at [Fluminense Federal University](https://www.uff.br/) 
 - 💼 Web Development Analyst at [Infoglobo](https://github.com/Infoglobo)
 
