@@ -1,6 +1,6 @@
 ## Hi there, I'm Matheus Baldissara 👋
 ##### Full Stack Developer from Rio de Janeiro, Brazil 🇧🇷
-- 🎓 Senior College Student in Bacharelor of Information Systems at [Fluminense Federal University](https://www.uff.br/) 
+- 🎓 Senior College Student in Bachelor of Information Systems at [Fluminense Federal University](https://www.uff.br/) 
 - 💼 Web Development Analyst at [Infoglobo](https://github.com/Infoglobo)
 
 ### Connect with me:
