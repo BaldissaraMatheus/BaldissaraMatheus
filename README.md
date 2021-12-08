@@ -27,11 +27,6 @@
 ![](https://img.shields.io/badge/Arch-informational?style=flat&logo=archlinux&logoColor=white&color=3b4252)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=3b4252)
 
-### Have _some_ experience with:
-![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3b4252)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3b4252)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=3b4252)
-
 ![Matheus Baldissara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaldissaraMatheus&theme=nord&show_icons=true&count_private=true "Matheus Baldissara's GitHub Stats")
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaldissaraMatheus&theme=nord&layout=compact&langs_count=8 "Matheus Baldissara's Top Languages Card")
