@@ -16,7 +16,6 @@
 ![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=3b4252)
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=3b4252)
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=white&color=3b4252)
-![](https://img.shields.io/badge/Nest-informational?style=flat&logo=nestdotjs&logoColor=white&color=3b4252)
 ![](https://img.shields.io/badge/AWS-informational?style=flat&logo=aws&logoColor=white&color=3b4252)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=3b4252)
 ![](https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logoColor=white&color=3b4252)
