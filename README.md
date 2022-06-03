@@ -4,5 +4,5 @@
 - 🎓 Bachelor of Information Systems at [Fluminense Federal University](https://www.uff.br/) 
 
 #### Connect with me:
-- [My linkedin profile](https://linkedin.com/in/baldissaramatheus)
-- My personal email: baldissaramatheus@gmail.com
+- [Linkedin profile](https://linkedin.com/in/baldissaramatheus)
+- Personal email: baldissaramatheus@gmail.com
