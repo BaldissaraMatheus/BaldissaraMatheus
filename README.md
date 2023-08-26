@@ -1,5 +1,5 @@
 ## Matheus Baldissara
-Hey there, I'm a fullstack web developer and the creator of a small self-hosted project called Tasks.md.
+I'm a fullstack web developer and the creator of a small self-hosted project called Tasks.md.
 
 #### Professional Status and Education
 - 💼 Frontend developer at [Mouts TI](https://mouts.info/)
