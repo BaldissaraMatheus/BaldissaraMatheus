@@ -1,8 +1,8 @@
 ## Matheus Baldissara
-I'm a fullstack web developer and the creator of a small self-hosted project called Tasks.md.
+I'm a Software Engineer and the creator of a self-hosted app called Tasks.md.
 
 #### Professional Status and Education
-- 💼 Frontend developer at [Mouts TI](https://mouts.info/)
+- 💼 Frontend Software Engineer at [Mouts TI](https://mouts.info/)
 - 🎓 Bachelor of Information Systems at [Fluminense Federal University](https://www.uff.br/) 
 
 #### Connect with me:
