@@ -1,5 +1,5 @@
 ## Matheus Baldissara
-I'm a Software Engineer and creator of a self-hosted app called Tasks.md.
+Software Engineer and creator of a self-hosted app called Tasks.md.
 
 #### Professional Status and Education
 - 💼 Frontend Software Engineer at [Mouts TI](https://mouts.info/)
