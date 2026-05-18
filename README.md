@@ -6,5 +6,4 @@ iabadabadu
 - 🎓 Bachelor of Information Systems at [Fluminense Federal University](https://www.uff.br/) 
 
 #### Connect with me:
-- [Linkedin profile](https://linkedin.com/in/baldissaramatheus)
 - Personal email: baldissaramatheus@gmail.com
